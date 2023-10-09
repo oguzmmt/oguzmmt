@@ -1,9 +1,7 @@
 # 🚀 Hello 👋
 
- I'm developing myself in the field of software.
-
-
-
+Welcome to the magical world of codes. 🌟
+ <br>
  
 ## 🛠️ My skills
 
