@@ -1,16 +1,25 @@
-### Hi there 👋
+# 🚀 Hello 👋
 
-<!--
-**oguzmmt/oguzmmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm developing myself in the field of software.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+## 🛠️ My skills
+
+- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="35" height="35" /></a>
+  
+- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
+
+
+## 📈 My GitHub Stats:
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzmmt&show_icons=true&locale=en" alt="oguzmmt" />
+</p>
+
+## 🚀 Check out my projects on GitHub!
