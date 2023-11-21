@@ -20,4 +20,4 @@ Welcome to the magical world of codes. 🌟
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzmmt&show_icons=true&locale=en" alt="oguzmmt" />
 </p>
 
-## 🚀 Check out my projects on GitHub!
+
