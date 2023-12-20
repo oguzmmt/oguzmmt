@@ -1,4 +1,4 @@
-# 🚀 Hello 👋
+⁸# 🚀 Hello 👋
 
 Welcome to the magical world of codes. 🌟
  <br>
@@ -11,8 +11,7 @@ Welcome to the magical world of codes. 🌟
   
  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-
+  
 
 ## 📈 My GitHub Stats:
 
